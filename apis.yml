@@ -1,0 +1,7 @@
+aid: hewlett-packard
+url: https://raw.githubusercontent.com/api-evangelist/hewlett-packard/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.hewlett-packard.com
